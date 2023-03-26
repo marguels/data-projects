@@ -1,0 +1,4 @@
+*.pdf
+archaeology_thesis_plots/*.csv
+**/*.DS_Store
+**/.ipynb_checkpoints/
